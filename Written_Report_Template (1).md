@@ -15,11 +15,11 @@
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-#### theaters launched in May have the highest success rate
-#### December has the least amount of successful launches
+#### 1. Theaters launched in May have the highest success rate
+#### 2. December has the least amount of successful launches
 
 - What can you conclude about the Outcomes based on Goals?
-#### never have a goal between 45000 to 49999
+#### 1. Never have a goal between 45000 to 49999
 
 - What are some limitations of this dataset?
 
